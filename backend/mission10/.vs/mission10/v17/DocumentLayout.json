@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matti\\source\\repos\\mission10\\backend\\mission10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D324047C-1CEE-472E-B0D1-B2AD6786BE98}|mission10\\mission10.csproj|c:\\users\\matti\\source\\repos\\mission10\\backend\\mission10\\mission10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D324047C-1CEE-472E-B0D1-B2AD6786BE98}|mission10\\mission10.csproj|solutionrelative:mission10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D324047C-1CEE-472E-B0D1-B2AD6786BE98}|mission10\\mission10.csproj|c:\\users\\matti\\source\\repos\\mission10\\backend\\mission10\\mission10\\models\\bowlingleaguecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D324047C-1CEE-472E-B0D1-B2AD6786BE98}|mission10\\mission10.csproj|solutionrelative:mission10\\models\\bowlingleaguecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D324047C-1CEE-472E-B0D1-B2AD6786BE98}|mission10\\mission10.csproj|c:\\users\\matti\\source\\repos\\mission10\\backend\\mission10\\mission10\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D324047C-1CEE-472E-B0D1-B2AD6786BE98}|mission10\\mission10.csproj|solutionrelative:mission10\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\matti\\source\\repos\\mission10\\backend\\mission10\\mission10\\appsettings.json",
+              "RelativeDocumentMoniker": "mission10\\appsettings.json",
+              "ToolTip": "C:\\Users\\matti\\source\\repos\\mission10\\backend\\mission10\\mission10\\appsettings.json",
+              "RelativeToolTip": "mission10\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-13T18:54:04.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BowlingLeagueContext.cs",
+              "DocumentMoniker": "C:\\Users\\matti\\source\\repos\\mission10\\backend\\mission10\\mission10\\Models\\BowlingLeagueContext.cs",
+              "RelativeDocumentMoniker": "mission10\\Models\\BowlingLeagueContext.cs",
+              "ToolTip": "C:\\Users\\matti\\source\\repos\\mission10\\backend\\mission10\\mission10\\Models\\BowlingLeagueContext.cs",
+              "RelativeToolTip": "mission10\\Models\\BowlingLeagueContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T18:50:45.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matti\\source\\repos\\mission10\\backend\\mission10\\mission10\\Program.cs",
+              "RelativeDocumentMoniker": "mission10\\Program.cs",
+              "ToolTip": "C:\\Users\\matti\\source\\repos\\mission10\\backend\\mission10\\mission10\\Program.cs",
+              "RelativeToolTip": "mission10\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T18:50:35.01Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
