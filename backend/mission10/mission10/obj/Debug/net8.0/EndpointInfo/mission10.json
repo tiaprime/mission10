@@ -10,7 +10,7 @@
         "tags": [
           "Bowler"
         ],
-        "operationId": "GetBowlers",
+        "operationId": "GetBowler",
         "responses": {
           "200": {
             "description": "OK",
