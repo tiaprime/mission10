@@ -134,3 +134,5 @@ C:\Users\matti\source\repos\mission10\backend\mission10\mission10\obj\Debug\net8
 C:\Users\matti\source\repos\mission10\backend\mission10\mission10\obj\Debug\net8.0\mission10.pdb
 C:\Users\matti\source\repos\mission10\backend\mission10\mission10\obj\Debug\net8.0\mission10.genruntimeconfig.cache
 C:\Users\matti\source\repos\mission10\backend\mission10\mission10\obj\Debug\net8.0\ref\mission10.dll
+C:\Users\matti\source\repos\mission10\backend\mission10\mission10\obj\Debug\net8.0\mission10.sourcelink.json
+C:\Users\matti\source\repos\mission10\backend\mission10\mission10\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
