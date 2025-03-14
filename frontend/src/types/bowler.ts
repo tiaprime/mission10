@@ -8,7 +8,6 @@ export type bowler = {
     bowlerState: string,
     bowlerZip: string,
     bowlerPhoneNumber: string,
-    teamId: number,
-    bowlerScores: object,
-    team: null
+    teamName: string,
+    
 }
